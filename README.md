@@ -2,7 +2,9 @@
 
 Command Line Interface (CLI) for Wikipedia Search. Gives the first paragraph on the Wikipedia page.
 
-Prerequisite : sudo apt-get install erlang-base
+Prerequisite:
+Linux: sudo apt-get install elixir
+OSX: brew install elixir
 
 To use, clone this repository onto the system
 
