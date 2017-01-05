@@ -13,6 +13,8 @@ cd wiki_search/
 
 ```sh
 ./wiki_search Mango
+```
+```
 The mango is a juicy stone fruit (drupe) belonging to the genus Mangifera, consisting of numerous tropical fruiting trees, cultivated mostly for edible fruit. 
 The majority of these species are found in nature as wild mangoes. 
 They all belong to the flowering plant family Anacardiaceae. 
@@ -26,6 +28,8 @@ For multi-word queries, enclose in quotes.
 
 ```sh
 ./wiki_search "Mango pudding"
+```
+```
 Mango pudding is a dessert of Indian origin usually served cold. 
 It is very popular in Hong Kong, where pudding is eaten as a traditional British food. 
 Mango pudding originated in India and the recipe was introduced from the British in the 19th century. 
